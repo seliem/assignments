@@ -1,7 +1,7 @@
 {
 	"info": {
 		"_postman_id": "e4dd90c3-3cba-46df-b561-93a7f8c2692b",
-		"name": "Tekdi Angular Test",
+		"name": "MOJ Frontend Test",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
 	"item": [
@@ -21,13 +21,13 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"name\": \"Gitesh Kumar\",\n    \"email\": \"gitesh@motorola.biz\",\n    \"dob\": \"2000-10-10\",\n    \"country\": \"IN\",\n    \"avatar\": \"https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50\"\n  }"
+					"raw": "{\n    \"name\": \"M seliem\",\n    \"email\": \"mslm@moj.sa\",\n    \"dob\": \"2000-10-10\",\n    \"country\": \"KSA\",\n    \"avatar\": \"https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50\"\n  }"
 				},
 				"url": {
-					"raw": "https://tekdi-challenges.appspot.com/api/People",
+					"raw": "https://mojsa.stoplight.io/api/People",
 					"protocol": "https",
 					"host": [
-						"tekdi-challenges",
+						"mojsa-challenges",
 						"appspot",
 						"com"
 					],
@@ -55,13 +55,13 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"name\": \"Gitesh Kumar\",\n    \"email\": \"gitesh@motorola.biz\",\n    \"dob\": \"2000-10-10\",\n    \"country\": \"US\",\n    \"avatar\": \"https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50\"\n  }"
+					"raw": "{\n    \"name\": \"m seliem\",\n    \"email\": \"mslm@moj.sa\",\n    \"dob\": \"2000-10-10\",\n    \"country\": \"US\",\n    \"avatar\": \"https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50\"\n  }"
 				},
 				"url": {
-					"raw": "https://tekdi-challenges.appspot.com/api/People/2",
+					"raw": "https://mojsa.stoplight.io/api/People/2",
 					"protocol": "https",
 					"host": [
-						"tekdi-challenges",
+						"moj-challenges",
 						"appspot",
 						"com"
 					],
@@ -80,10 +80,10 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "https://tekdi-challenges.appspot.com/api/People",
+					"raw": "https://mojsa.stoplight.io/api/People",
 					"protocol": "https",
 					"host": [
-						"tekdi-challenges",
+						"moj-challenges",
 						"appspot",
 						"com"
 					],
@@ -101,10 +101,10 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "https://tekdi-challenges.appspot.com/api/People/1",
+					"raw": "https://mojsa.stoplight.io/api/People/1",
 					"protocol": "https",
 					"host": [
-						"tekdi-challenges",
+						"moj-challenges",
 						"appspot",
 						"com"
 					],
